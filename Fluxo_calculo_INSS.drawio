@@ -10,7 +10,7 @@
         <mxCell id="zLG3uF72zW_2cckSJzwh-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="" vertex="1">
           <mxGeometry height="60" width="100" x="364" y="-3300" as="geometry" />
         </mxCell>
-        <mxCell id="zLG3uF72zW_2cckSJzwh-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="" vertex="1">
+        <mxCell id="zLG3uF72zW_2cckSJzwh-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Leia&lt;div&gt;Salário&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="324" y="-3200" as="geometry" />
         </mxCell>
       </root>
