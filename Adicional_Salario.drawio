@@ -1,11 +1,56 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="3g5U3xphcck2RB9HaI9Q">
-    <mxGraphModel dx="801" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1704" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-2" edge="1" parent="1" source="_fg0gY6LnfmavgZzYj1W-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="oGeWE7EW0-bdBIZYMAEp-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_fg0gY6LnfmavgZzYj1W-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Início" vertex="1">
           <mxGeometry height="60" width="100" x="314" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-4" edge="1" parent="1" source="oGeWE7EW0-bdBIZYMAEp-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="oGeWE7EW0-bdBIZYMAEp-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-1" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;strokeWidth=2;" value="Leia&lt;div&gt;Salário Líquido&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="304" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-6" edge="1" parent="1" source="oGeWE7EW0-bdBIZYMAEp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="oGeWE7EW0-bdBIZYMAEp-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-8" edge="1" parent="1" source="oGeWE7EW0-bdBIZYMAEp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="oGeWE7EW0-bdBIZYMAEp-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-3" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;" value="Salário Líquido&lt;div&gt;&amp;lt;= 1600?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="136" x="296" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-5" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="Acréscimo=&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&amp;nbsp;400&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="520" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-7" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;" value="&lt;div&gt;Acréscimo = 200&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="500" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Salário final =&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;Salário líquido + Acréscimo&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="280" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-13" edge="1" parent="1" source="oGeWE7EW0-bdBIZYMAEp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="oGeWE7EW0-bdBIZYMAEp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-14" edge="1" parent="1" source="oGeWE7EW0-bdBIZYMAEp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="oGeWE7EW0-bdBIZYMAEp-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Fim" vertex="1">
+          <mxGeometry height="60" width="100" x="325" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="oGeWE7EW0-bdBIZYMAEp-16" edge="1" parent="1" source="oGeWE7EW0-bdBIZYMAEp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="oGeWE7EW0-bdBIZYMAEp-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
