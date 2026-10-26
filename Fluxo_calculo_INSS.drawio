@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="MvNO-x-s0jVZIRNJXzh7">
-    <mxGraphModel dx="801" dy="3980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="982" dy="4047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zLG3uF72zW_2cckSJzwh-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Início" vertex="1">
-          <mxGeometry height="60" width="100" x="50" y="-3500" as="geometry" />
+          <mxGeometry height="60" width="100" x="50" y="-3480" as="geometry" />
         </mxCell>
         <mxCell id="AQPUk86UETPwbcGNyej3-2" edge="1" parent="1" source="zLG3uF72zW_2cckSJzwh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-1" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -19,53 +19,104 @@
         <mxCell id="AQPUk86UETPwbcGNyej3-6" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;rounded=1;arcSize=12;" value="Salário Bruto &amp;lt;= 1621,00" vertex="1">
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149.99999999999977" y="-3240" as="sourcePoint" />
+            <mxPoint x="225.00000000000023" y="-3240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQPUk86UETPwbcGNyej3-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;rounded=1;arcSize=12;" value="Salário Bruto &amp;lt;= 1621,00?" vertex="1">
           <mxGeometry height="100" width="110" x="45" y="-3290" as="geometry" />
-        </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-4" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-1" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="INSS = (salário bruto * 7,5%)" vertex="1">
-          <mxGeometry height="60" width="190" x="220" y="-3270" as="geometry" />
         </mxCell>
         <mxCell id="AQPUk86UETPwbcGNyej3-10" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-9" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;rounded=1;arcSize=12;" value="Salário Bruto &amp;lt;=&amp;nbsp; 2.902,84" vertex="1">
-          <mxGeometry height="100" width="110" x="45" y="-3140" as="geometry" />
-        </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-8" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-5" value="">
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-6" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="INSS = (Salário bruto * 9%) - 24,32" vertex="1">
-          <mxGeometry height="60" width="230" x="210" y="-3120" as="geometry" />
+        <mxCell id="AQPUk86UETPwbcGNyej3-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;rounded=1;arcSize=12;" value="Salário Bruto &amp;lt;=&amp;nbsp; 2.902,84?" vertex="1">
+          <mxGeometry height="100" width="110" x="45" y="-3140" as="geometry" />
         </mxCell>
         <mxCell id="AQPUk86UETPwbcGNyej3-12" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;rounded=1;arcSize=12;" value="Salário bruto &amp;lt;= 4354,27" vertex="1">
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-8" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQPUk86UETPwbcGNyej3-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;rounded=1;arcSize=12;" value="Salário bruto &amp;lt;= 4354,27?" vertex="1">
           <mxGeometry height="100" width="110" x="45" y="-2960" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;rounded=1;arcSize=12;" value="Salário bruto &amp;lt;=8475,55" vertex="1">
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-10" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-36" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-35" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQPUk86UETPwbcGNyej3-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;strokeWidth=2;rounded=1;arcSize=12;" value="Salário bruto &amp;lt;=8475,55?" vertex="1">
           <mxGeometry height="100" width="110" x="45" y="-2780" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-14" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-9" value="">
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-1" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" value="INSS = (salário bruto * 7,5%)" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="-3270" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-40" edge="1" parent="1" source="l_8VZuKddhE1oiVUR5SW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="INSS = (Salário bruto * 12%) - 111,40" vertex="1">
-          <mxGeometry height="60" width="220" x="220" y="-2940" as="geometry" />
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-5" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" value="&lt;span style=&quot;color: rgb(0, 0, 0); float: none; background-color: rgb(255, 255, 255); display: inline !important;&quot;&gt;INSS = (Salário bruto * 9%) - 24,32&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="-3120" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-16" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-11" value="">
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-7" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" value="INSS = (Salário bruto * 12%) - 111,40" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="-2940" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-9" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" value="INSS = (Salário bruto * 14%) - 198,49" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="-2760" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="155" y="-3270" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="155" y="-3120" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="155" y="-2938" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sim" vertex="1">
+          <mxGeometry height="30" width="60" x="155" y="-2760" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="-2830" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="-3010" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="-3170" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Não" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="-2700" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-31" edge="1" parent="1" source="l_8VZuKddhE1oiVUR5SW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-22" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="INSS = (Salário bruto * 14%) - 198,49" vertex="1">
-          <mxGeometry height="60" width="230" x="220" y="-2760" as="geometry" />
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-20" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Exibir INSS" vertex="1">
+          <mxGeometry height="60" width="142.5" x="490" y="-3000" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-18" edge="1" parent="1" source="AQPUk86UETPwbcGNyej3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;" target="AQPUk86UETPwbcGNyej3-11" value="">
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-22" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Fim" vertex="1">
+          <mxGeometry height="60" width="100" x="670" y="-3000" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-35" parent="1" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" value="INSS = 988,80" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="-2620" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-37" edge="1" parent="1" source="l_8VZuKddhE1oiVUR5SW-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.575;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQPUk86UETPwbcGNyej3-17" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="INSS = Teto máximo" vertex="1">
-          <mxGeometry height="60" width="150" x="25" y="-2620" as="geometry" />
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-38" edge="1" parent="1" source="l_8VZuKddhE1oiVUR5SW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.423;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-39" edge="1" parent="1" source="l_8VZuKddhE1oiVUR5SW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.321;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-20">
+          <mxGeometry relative="1" x="-0.0476" as="geometry" />
+        </mxCell>
+        <mxCell id="l_8VZuKddhE1oiVUR5SW-41" edge="1" parent="1" source="l_8VZuKddhE1oiVUR5SW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.685;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;" target="l_8VZuKddhE1oiVUR5SW-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
